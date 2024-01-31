@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (pending)
-- Live Site URL: (pending)
+- Solution URL: [Github repository](https://github.com/memominguez/accordion)
+- Live Site URL: [Github page](https://memominguez.github.io/accordion/)
 
 ## My process
 
