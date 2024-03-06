@@ -2,7 +2,7 @@ const accordionContent = document.querySelectorAll(".accordion-content");
 let iconImage = document.querySelectorAll(".icon-image")
 
 accordionContent.forEach((item, index) => {
-  let header = item.querySelector("header");
+  let header = item.querySelector(".article-title");
   header.addEventListener("click", () => {
     item.classList.toggle("open");    
 
